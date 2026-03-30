@@ -4,6 +4,7 @@
     <p>Meu nome é Adriano e sou estudante de desenvolvimento.</p>
     <p>Estou aprendendo Git e GitHub!</p>
 </section>
+<link rel="stylesheet" href="style.css">
 body {
     font-family: Arial, sans-serif;
     max-width: 800px;
